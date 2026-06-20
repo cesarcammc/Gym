@@ -24,8 +24,8 @@ data_rutinas = {
             "musculos_secundarios": "Tríceps, Deltoides Anterior",
             "descripcion_detallada": "Siéntate y ajusta la altura del asiento para que las asas estén a la altura de tu pecho medio. Empuja las asas de forma controlada hasta casi extender los brazos, pero sin bloquear los codos. Regresa lentamente controlando el peso hasta sentir un estiramiento controlado.",
             "puntos_clave": ["Mantén los hombros retraídos contra el respaldo.", "No impulses con el torso.", "Exhala al empujar, inhala al regresar."],
-            "img_anatomia": "https://imgur.com/a/nDOlySt", # REEMPLAZAR CON URL REAL
-            "img_movimiento": "https://imgur.com/a/nDOlySt" # REEMPLAZAR CON URL REAL
+            "img_anatomia": "https://i.imgur.com/i8Fo5Sd.jpeg", # REEMPLAZAR CON URL REAL
+            "img_movimiento": "https://i.imgur.com/i8Fo5Sd.jpeg" # REEMPLAZAR CON URL REAL
         },
         {
             "maquina": "Máquina Pec Deck (Aperturas)",
