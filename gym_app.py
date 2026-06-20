@@ -43,7 +43,7 @@ data_rutinas = {
             "musculos_secundarios": "Core (Estabilización)",
             "descripcion_detallada": "Coloca las poleas en la posición alta. Da un paso adelante, inclina ligeramente el torso y junta las asas frente a ti con los codos ligeramente flexionados.",
             "puntos_clave": ["El movimiento debe ser como dar un abrazo, no empujar.", "Aprieta el pecho al juntar las manos."],
-            "img_anatomia": "https://i.imgur.com/poleas_pecho.png"
+            "img_anatomia": "https://i.imgur.com/rGz08vA.jpeg"
         },
         {
             "maquina": "Máquina Pec Dec",
