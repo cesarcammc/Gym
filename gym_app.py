@@ -52,7 +52,7 @@ data_rutinas = {
             "musculos_secundarios": "Deltoides Anterior",
             "descripcion_detallada": "Siéntate, coloca los brazos en las almohadillas o agarra las asas. Junta los brazos frente al pecho y regresa controladamente.",
             "puntos_clave": ["No dejes que el peso tire tus brazos bruscamente hacia atrás."],
-            "img_anatomia": "https://i.imgur.com/pec_dec.png"
+            "img_anatomia": "https://i.imgur.com/shWyofP.jpeg"
         }
     ],
     "Piernas (Musculación)": [
