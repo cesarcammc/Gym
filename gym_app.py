@@ -34,7 +34,7 @@ data_rutinas = {
             "musculos_secundarios": "Deltoides Frontal, Tríceps",
             "descripcion_detallada": "Acuéstate en el banco inclinado. Baja la barra o mancuernas hacia la parte superior del pecho y empuja.",
             "puntos_clave": ["Ajusta el banco a unos 30-45 grados.", "Controla la bajada para no forzar los hombros."],
-            "img_anatomia": "https://i.imgur.com/pecho_inclinado.png"
+            "img_anatomia": "https://i.imgur.com/U0XnzPQ.jpeg"
         },
         {
             "maquina": "Estación de Poleas Cruzadas (Crossover)",
