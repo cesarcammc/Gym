@@ -25,7 +25,7 @@ data_rutinas = {
             "musculos_secundarios": "Tríceps, Deltoides Anterior",
             "descripcion_detallada": "Acuéstate en el banco. Usa la barra olímpica o mancuernas. Baja el peso de forma controlada hasta el nivel del pecho y empuja hacia arriba.",
             "puntos_clave": ["Mantén los pies firmes en el suelo.", "No rebotes la barra en el pecho."],
-            "img_anatomia": "https://drive.google.com/uc?export=1hsqqQVWGnsYKeRDcrKx8x4-MohSmhBmE"
+            "img_anatomia": "https://drive.google.com/uc?export=view&id=1hsqqQVWGnsYKeRDcrKx8x4-MohSmhBmE"
         },
         {
             "maquina": "Banco de Press Inclinado",
